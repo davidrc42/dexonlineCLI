@@ -1,4 +1,4 @@
-DEPENDECIES: python, pip, bs4 python lib
+DEPENDECIES: python, pip
 
 INSTALLATION
 ```
