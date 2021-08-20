@@ -1,0 +1,6 @@
+setup.py
+dexonline.egg-info/PKG-INFO
+dexonline.egg-info/SOURCES.txt
+dexonline.egg-info/dependency_links.txt
+dexonline.egg-info/entry_points.txt
+dexonline.egg-info/top_level.txt

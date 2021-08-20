@@ -1,0 +1,3 @@
+[console_scripts]
+dexonline = cli:main
+
