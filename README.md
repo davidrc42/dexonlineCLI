@@ -18,7 +18,7 @@ git clone https://github.com/davidrc42/dexonlineCLI
 ```
 USAGE
 
-go in the configuration of your shell(bashrc,zshrc) and make a convinient alias like:
+go in the configuration of your shell(bashrc,zshrc) and make a convenient alias like:
 ```
 alias dexonline='<path to dexonlineCLI>/main.py'
 ```
